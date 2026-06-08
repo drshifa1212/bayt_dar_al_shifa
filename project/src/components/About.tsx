@@ -5,7 +5,7 @@ import { Award, BookOpen, Heart, Stethoscope, GraduationCap, Star } from 'lucide
 const credentials = [
   { icon: GraduationCap, label: 'BPT & MPT Degrees', color: 'bg-lilac-100 text-lilac-700 dark:bg-lilac-900/30 dark:text-lilac-300' },
   { icon: Award, label: 'Certified Sports Physio', color: 'bg-aqua-100 text-aqua-700 dark:bg-aqua-900/30 dark:text-aqua-300' },
-  { icon: BookOpen, label: '8+ Years Experience', color: 'bg-mint-100 text-mint-700 dark:bg-mint-900/30 dark:text-mint-300' },
+  { icon: BookOpen, label: '2+ Years Experience', color: 'bg-mint-100 text-mint-700 dark:bg-mint-900/30 dark:text-mint-300' },
   { icon: Stethoscope, label: '500+ Patients Treated', color: 'bg-peach-100 text-peach-700 dark:bg-peach-900/30 dark:text-peach-300' },
 ];
 
@@ -116,7 +116,7 @@ export default function About() {
             transition={{ duration: 0.8, ease: 'easeOut', delay: 0.1 }}
           >
             <p className="font-inter text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-              Dr. Shifa is a highly dedicated physiotherapist with over 8 years of clinical experience helping individuals
+              Dr. Shifa is a highly dedicated physiotherapist with over 2+ years of clinical experience helping individuals
               of all ages recover, move better, and achieve optimal physical wellness. Her patient-first philosophy
               ensures every person receives individualized attention and care.
             </p>

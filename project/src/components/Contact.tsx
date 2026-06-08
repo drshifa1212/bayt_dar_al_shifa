@@ -6,8 +6,8 @@ const contactItems = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '+1 (555) 012-3456',
-    href: 'tel:+15550123456',
+    value: '+91 1234567890',
+    href: 'tel:+ 1234567890',
     color: 'bg-lilac-100 text-lilac-700 dark:bg-lilac-900/30 dark:text-lilac-300',
   },
   {
@@ -20,7 +20,7 @@ const contactItems = [
   {
     icon: MapPin,
     label: 'Clinic Address',
-    value: '123 Wellness Avenue, Health City, HC 10001',
+    value: 'Mumbai, India',
     href: 'https://maps.google.com',
     color: 'bg-mint-100 text-mint-700 dark:bg-mint-900/30 dark:text-mint-300',
   },

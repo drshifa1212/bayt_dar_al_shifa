@@ -6,7 +6,7 @@ import { Shield, Clock, Award, TrendingUp, Heart, Microscope } from 'lucide-reac
 const stats = [
   { value: 500, suffix: '+', label: 'Patients Treated', icon: Heart, color: 'lilac' },
   { value: 95, suffix: '%', label: 'Recovery Satisfaction', icon: TrendingUp, color: 'mint' },
-  { value: 8, suffix: '+', label: 'Years Experience', icon: Award, color: 'aqua' },
+  { value: 2, suffix: '+', label: 'Years Experience', icon: Award, color: 'aqua' },
   { value: 100, suffix: '%', label: 'Personalized Plans', icon: Shield, color: 'peach' },
 ];
 
